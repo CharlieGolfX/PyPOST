@@ -25,7 +25,7 @@ The script will continue to run indefinitely, sending a new POST request every s
 7. Run the script using the following command:
 
    ```shell
-   python script.py
+   python main.py
 
 ## Requirements
 Python 3.x
