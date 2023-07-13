@@ -29,4 +29,5 @@ The script will continue to run indefinitely, sending a new POST request every s
 
 ## Requirements
 -Python 3.x
+
 -The requests library (install using pip install requests)
