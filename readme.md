@@ -28,5 +28,5 @@ The script will continue to run indefinitely, sending a new POST request every s
    python main.py
 
 ## Requirements
-Python 3.x
-The requests library (install using pip install requests)
+-Python 3.x
+-The requests library (install using pip install requests)
